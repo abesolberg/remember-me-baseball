@@ -43,7 +43,7 @@ ui <- fluidPage(
            ")
       )
     ),
-  absolutePanel( top = 0 , left = '50%' , width = "450px" , height = '800px' ,
+  absolutePanel( top = 0 , left = '50%' , width = "450px" , height = '100%' ,
                  style = 'background-color:#D3B083;transform:translateX(-50%);'
                  
   ), 
